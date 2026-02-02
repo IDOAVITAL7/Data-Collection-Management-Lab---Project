@@ -1,5 +1,13 @@
+
+.streamlit/secrets.toml
+.streamlit/
+*.parquet
+*.csv
+app_data/
+data/
+atlanta.parquet
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-.env
-.DS_Store
+.venv/
+venv/
+env/
